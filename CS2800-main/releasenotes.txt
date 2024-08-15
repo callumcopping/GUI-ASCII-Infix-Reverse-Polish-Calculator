@@ -1,0 +1,11 @@
+Release 2.0:
+Features:
+- GUI calculator
+- Ascii Calculator
+- Postfix expression calculation
+- Infix expression calculation
+- Error messages upon using invalid expression
+- Error messages if divison by zero occurs
+- Commented Code
+- Java Doc
+- Full testing for application
